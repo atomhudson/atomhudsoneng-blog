@@ -3,8 +3,9 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "terminal"
 
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
+
 
 [pagination]
   pagerSize = 5
@@ -19,7 +20,6 @@ canonifyURLs = true
   showLastUpdated = false
   fullWidthTheme = false
   centerTheme = false
-  customCSS = ["css/terminal.css"]
 
 [languages]
   [languages.en]
