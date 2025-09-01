@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/first-post/</guid>
       <description>&lt;h1 id=&#34;-welcome-to-my-blog&#34;&gt;👋 Welcome to My Blog!&lt;/h1&gt;&#xA;&lt;p&gt;Hey everyone! This is my &lt;strong&gt;first post&lt;/strong&gt; on my self-hosted blog.I’ll be writing about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;💻 Tech &amp;amp; coding (Java, React, Go, etc.)&lt;/li&gt;&#xA;&lt;li&gt;📚 Things I learn daily&lt;/li&gt;&#xA;&lt;li&gt;🌱 Personal growth and productivity&lt;/li&gt;&#xA;&lt;li&gt;🧘 Meditation &amp;amp; fitness journey&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-code-snippet-example&#34;&gt;💡 Code Snippet Example&lt;/h2&gt;&#xA;&lt;p&gt;Since I’m a developer, here’s a simple Java program to kick things off:&lt;/p&gt;&#xA;&#xD;&#xA;&lt;pre&gt;&lt;code class=&#34;language-java&#34;&gt;public class HelloWorld {&#xA;    public static void main(String[] args) {&#xA;        System.out.println(&amp;#34;Hello, world! 🚀&amp;#34;);&#xA;    }&#xA;}&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

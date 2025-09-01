@@ -31,5 +31,7 @@
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-31T22:03:39+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
   </url>
 </urlset>
