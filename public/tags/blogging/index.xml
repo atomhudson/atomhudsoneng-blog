@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blogging on Terminal</title>
-    <link>http://localhost:1313/tags/blogging/</link>
-    <description>Recent content in Blogging on Terminal</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 31 Aug 2025 22:03:39 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Sun, 31 Aug 2025 22:03:39 +0530</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;h1 id=&#34;-welcome-to-my-blog&#34;&gt;👋 Welcome to My Blog!&lt;/h1&gt;&#xA;&lt;p&gt;Hey everyone! This is my &lt;strong&gt;first post&lt;/strong&gt; on my self-hosted blog.I’ll be writing about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;💻 Tech &amp;amp; coding (Java, React, Go, etc.)&lt;/li&gt;&#xA;&lt;li&gt;📚 Things I learn daily&lt;/li&gt;&#xA;&lt;li&gt;🌱 Personal growth and productivity&lt;/li&gt;&#xA;&lt;li&gt;🧘 Meditation &amp;amp; fitness journey&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-code-snippet-example&#34;&gt;💡 Code Snippet Example&lt;/h2&gt;&#xA;&lt;p&gt;Since I’m a developer, here’s a simple Java program to kick things off:&lt;/p&gt;&#xA;&#xD;&#xA;&lt;pre&gt;&lt;code class=&#34;language-java&#34;&gt;public class HelloWorld {&#xA;    public static void main(String[] args) {&#xA;        System.out.println(&amp;#34;Hello, world! 🚀&amp;#34;);&#xA;    }&#xA;}&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogging on Terminal</title><link>https://atomhudsoneng-blog.pages.dev/tags/blogging/</link><description>Recent content in Blogging on Terminal</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 31 Aug 2025 22:03:39 +0530</lastBuildDate><atom:link href="https://atomhudsoneng-blog.pages.dev/tags/blogging/index.xml" rel="self" type="application/rss+xml"/><item><title>First Post</title><link>https://atomhudsoneng-blog.pages.dev/posts/first-post/</link><pubDate>Sun, 31 Aug 2025 22:03:39 +0530</pubDate><guid>https://atomhudsoneng-blog.pages.dev/posts/first-post/</guid><description>&lt;h1 id="-welcome-to-my-blog"&gt;👋 Welcome to My Blog!&lt;/h1&gt;
+&lt;p&gt;Hey everyone! This is my &lt;strong&gt;first post&lt;/strong&gt; on my self-hosted blog.I’ll be writing about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Tech &amp;amp; coding (Java, React, Go, etc.)&lt;/li&gt;
+&lt;li&gt;📚 Things I learn daily&lt;/li&gt;
+&lt;li&gt;🌱 Personal growth and productivity&lt;/li&gt;
+&lt;li&gt;🧘 Meditation &amp;amp; fitness journey&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-code-snippet-example"&gt;💡 Code Snippet Example&lt;/h2&gt;
+&lt;p&gt;Since I’m a developer, here’s a simple Java program to kick things off:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class="language-java"&gt;public class HelloWorld {
+ public static void main(String[] args) {
+ System.out.println(&amp;#34;Hello, world! 🚀&amp;#34;);
+ }
+}&lt;/code&gt;&lt;/pre&gt;</description></item></channel></rss>
