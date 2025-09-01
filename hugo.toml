@@ -28,12 +28,12 @@ canonifyURLs = true
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
-      owner = "Your Name"
+      owner = "atomhudson"
       keywords = "blog, hugo, terminal, theme"
       copyright = "© 2025 Your Name"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Atomhudson-Eng"
         logoHomeLink = "/"
 
       [languages.en.menu]
