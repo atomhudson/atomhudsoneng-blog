@@ -1,0 +1,44 @@
+baseURL = "https://blog.atomhudsoneng.in/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "terminal"
+
+[pagination]
+  pagerSize = 5
+
+[markup.highlight]
+  noClasses = false
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 2
+  autoCover = true
+  showLastUpdated = false
+  fullWidthTheme = false
+  centerTheme = false
+  customCSS = ["css/terminal.css"]
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Terminal"
+
+    [languages.en.params]
+      subtitle = "A simple, retro theme for Hugo"
+      owner = "Your Name"
+      keywords = "blog, hugo, terminal, theme"
+      copyright = "© 2025 Your Name"
+
+      [languages.en.params.logo]
+        logoText = "Terminal"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "About"
+          url = "/about"
+        [[languages.en.menu.main]]
+          identifier = "posts"
+          name = "Posts"
+          url = "/posts"
