@@ -1,7 +1,10 @@
-baseURL = "https://blog.atomhudsoneng.in/"
+baseURL = "https://atomhudsoneng-blog.pages.dev/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "terminal"
+
+relativeURLs = true
+canonifyURLs = true
 
 [pagination]
   pagerSize = 5
